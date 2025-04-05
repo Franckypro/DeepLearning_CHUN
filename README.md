@@ -45,11 +45,10 @@ Ce projet utilise un modèle de Machine Learning pour prédire le churn des clie
 - `seaborn`
 - `category_encoders`
 
-Vous pouvez installer ces dépendances avec la commande suivante :
+Vous pouvez installer ces dépendances avec la commande suivante : 
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn keras seaborn category_encoders
-
 
 Résultats
 Le modèle prédit si un client quittera l'entreprise en fonction des caractéristiques des données. Le rapport de classification montre que le modèle a une précision globale de 84% :
