@@ -50,7 +50,7 @@ Vous pouvez installer ces dépendances avec la commande suivante :
 ```bash
 pip install pandas numpy matplotlib scikit-learn keras seaborn category_encoders
 
-Résultats
+# Résultats
 Le modèle prédit si un client quittera l'entreprise en fonction des caractéristiques des données. Le rapport de classification montre que le modèle a une précision globale de 84% :
 
 Précision : 0.85 pour les clients qui ne quittent pas, et 0.77 pour ceux qui quittent.
